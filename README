@@ -1,0 +1,128 @@
+# 🌤 Weather App
+
+A modern and responsive Weather Application built using **HTML, CSS, and JavaScript** that provides real-time weather information using the **OpenWeatherMap API**.
+
+## 🌐 Live Demo
+
+View the live project here:
+
+[Live Demo](https://your-live-demo-link.com)
+
+> Replace the above URL with your deployed GitHub Pages, Netlify, or Vercel link.
+
+---
+
+## 📌 Features
+
+* 🔍 Search weather by city name
+* 📍 Get weather using current location
+* 🌡 Display current temperature
+* ☁ Show weather conditions
+* 💧 Display humidity percentage
+* 🌬 Display wind speed
+* 🖼 Dynamic weather icons
+* 📱 Responsive user interface
+* 🌄 Beautiful weather-themed background
+* ⚡ Real-time weather updates using API
+
+---
+
+## 🛠 Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* OpenWeatherMap API
+* Geolocation API
+
+---
+
+## 📂 Project Structure
+
+```text
+Weather-App/
+│
+├── index.html
+├── style.css
+├── script.js
+├── IMG.jpg
+└── README.md
+```
+
+---
+
+## 🚀 How It Works
+
+### Search Weather by City
+
+1. Enter a city name in the search box.
+2. Click the **Search** button.
+3. The application sends a request to the OpenWeatherMap API.
+4. Weather information is displayed instantly.
+
+### Get Weather Using Current Location
+
+1. Click **Use My Location**.
+2. Allow browser location access.
+3. The browser retrieves latitude and longitude.
+4. Weather data is fetched and displayed automatically.
+
+---
+
+## 📊 Weather Information Displayed
+
+* City Name
+* Temperature (°C)
+* Weather Condition
+* Humidity
+* Wind Speed
+* Weather Icon
+
+---
+
+## 🔑 API Used
+
+OpenWeatherMap API
+
+https://openweathermap.org/api
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped me learn:
+
+* API Integration
+* Fetch API
+* DOM Manipulation
+* JavaScript Async/Await
+* Geolocation API
+* Responsive Web Design
+* Error Handling
+* UI/UX Design Principles
+
+---
+
+## 🚀 Future Enhancements
+
+* 5-Day Weather Forecast
+* Dark Mode
+* Temperature Unit Conversion (°C / °F)
+* Air Quality Index
+* Weather Alerts
+* Search History
+* Dynamic Background Based on Weather Conditions
+
+---
+
+## 👨‍💻 Author
+
+**Seetha Manikanta**
+
+GitHub: https://github.com/your-github-username
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
