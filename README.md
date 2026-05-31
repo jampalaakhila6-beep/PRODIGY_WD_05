@@ -8,8 +8,6 @@ View the live project here:
 
 [Live Demo](https://your-live-demo-link.com)
 
-> Replace the above URL with your deployed GitHub Pages, Netlify, or Vercel link.
-
 ---
 
 ## 📌 Features
@@ -117,9 +115,10 @@ This project helped me learn:
 
 ## 👨‍💻 Author
 
-**Seetha Manikanta**
+**Jampala Akhila**
 
-GitHub: https://github.com/your-github-username
+GitHub Profile: https://github.com/jampalaakhila6-beep
+
 
 ---
 
