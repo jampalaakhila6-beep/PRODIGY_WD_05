@@ -6,7 +6,7 @@ A modern and responsive Weather Application built using **HTML, CSS, and JavaScr
 
 View the live project here:
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo]()https://jampalaakhila6-beep.github.io/PRODIGY_WD_05/
 
 ---
 
